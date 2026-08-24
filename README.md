@@ -1,6 +1,6 @@
 ### Hi, I'm nedo
 
-I daily-drive NixOS and mostly build things for my own desktop.
+I daily-drive NixOS and mostly build things for my own desktop.  
 Big fan of Material Design 3.
 
 Most of my bigger projects are **still private**. Not forever - I'm cleaning them up
